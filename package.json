@@ -1,0 +1,19 @@
+{
+  "name": "nav_scrape",
+  "version": "1.0.0",
+  "description": "Web scraper for nav business search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcolynn/nav_scrape.git"
+  },
+  "author": "Cody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcolynn/nav_scrape/issues"
+  },
+  "homepage": "https://github.com/jcolynn/nav_scrape#readme"
+}
