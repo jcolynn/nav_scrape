@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jcolynn/nav_scrape/issues"
   },
-  "homepage": "https://github.com/jcolynn/nav_scrape#readme"
+  "homepage": "https://github.com/jcolynn/nav_scrape#readme",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
 }
